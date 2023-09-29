@@ -5,7 +5,6 @@
 
 using namespace std;
 
- // D:/ШАГ/2 курс/ООП/homework(HTML validator) 29.09.2023/homework(HTML validator) 29.09.2023/index.html
 int main() {
 	setlocale(0, "");
 	SetConsoleCP(1251);
